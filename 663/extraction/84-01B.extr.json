@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "d1d3c4e15a739c5371955f960624c27a27cbf703", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 50.0, 
+    "extract_units": "watts", 
+    "extract_value": 3.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "JJe1TgAAAADged89AAD6RFvvBkAAAPpEbnCDQAAA+kRoesNAAAD6RMa8AUEAAPpEtrshQQAA+kT7uUFBAAD6RGK/YUEAAPpED+KAQQAA+kQZ65BBAAD6RLz4oEEAAPpE6/6wQQAA+kThAMFBAAD6RKP/0EEAAPpERv7gQQAA+kS5BfFBAAD6RCSCAEIAAPpEBIIIQgAA+kSlgRBCAAD6RNSAGEIAAPpE3oIgQgAA+kSDgyhCAAD6RFOGMEIAAPpEJYk4QgAA+kQSjEBCAAD6RHSPSEIAAPpEko5QQgAA+kShjVhCAAD6RG2NYEIAAPpEeYxoQgAA+kSSi3BCAAD6RE2PeEIAAPpEM0eAQgAA+kTaSIRCAAD6RKpIiEIAAPpEYUmMQgAA+kT5SJBCAAD6RERKlEIAAPpE00mYQgAA+kQyS5xCAAD6RFxLoEIAAPpEWEykQgAA+kQmTahCAAD6RHpRrEIAAPpE9VCwQgAA+kSnUrRCAAD6RCJSuEIAAPpEcFO8QgAA+kTXU8BCAAD6RGFTxEIAAPpEiFPIQgAA+kR4U8xCAAD6RFBU0EIAAPpE", 
+    "pattern": "10 hole 8 sides beam 2.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "4", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "5", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "6", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "JJe1TgAAAADged890QMIQlvvBkAAAAAAbnCDQAAAAABoesNAAAAAAMa8AUEAAAAAtrshQQAAAAD7uUFBPCumQWK/YUE8K6ZBD+KAQTwrpkEZ65BBPCumQbz4oEE8K6ZB6/6wQTwrpkHhAMFBPCumQaP/0EE8K6ZBRv7gQTwrpkG5BfFBPCumQSSCAEI8K6ZBBIIIQjwrpkGlgRBCPCumQdSAGEI8K6ZB3oIgQjwrpkGDgyhCPCumQVOGMEI8K6ZBJYk4QjwrpkESjEBCPCumQXSPSEI8K6ZBko5QQjwrpkGhjVhCPCumQW2NYEI8K6ZBeYxoQjwrpkGSi3BCPCumQU2PeEI8K6ZBM0eAQjwrpkHaSIRCPCumQapIiEI8K6ZBYUmMQjwrpkH5SJBCPCumQURKlEI8K6ZB00mYQjwrpkEyS5xCPCumQVxLoEI8K6ZBWEykQjwrpkEmTahCPCumQXpRrEI8K6ZB9VCwQjwrpkGnUrRCPCumQSJSuEI8K6ZBcFO8QjwrpkHXU8BCPCumQWFTxEI8K6ZBiFPIQjwrpkF4U8xCPCumQVBU0EI8K6ZB", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 135.28
+}
